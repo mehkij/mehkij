@@ -12,8 +12,6 @@ Some tech I use:
 - Python 🐍
 - PostgreSQL 🐘
 
-### 📈 There isn't much here yet, but look forward to watching this account grow.
-
 [![Mehki Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehkij&theme=dark&hide=stars)](https://github.com/anuraghazra/github-readme-stats) [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehkij&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github.com/mehkij/mehkij/blob/main/omg-meme-dancing-gif.gif)
