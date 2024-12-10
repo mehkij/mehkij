@@ -15,7 +15,9 @@ Some tech I use, or have used previously:
 </p>
 
 <div align="center">
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehkij&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehkij&theme=dark&layout=compact" alt="Most Used Languages" />
+  </a>
 </div>
 
 <p align="center">
