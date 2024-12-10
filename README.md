@@ -8,7 +8,11 @@ My name is Mehki. I'm a 23 year old backend developer. Some stuff about me...
 
 Some tech I use, or have used previously:
 
-[![My Skills](https://skillicons.dev/icons?i=go,python,bash,docker,git,github,md,mongodb,express,react,nodejs,html,css,js)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,python,bash,docker,git,github,md,mongodb,express,react,nodejs,html,css,js" />
+  </a>
+</p>
 
 [![Mehki Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehkij&theme=dark&hide=stars)](https://github.com/anuraghazra/github-readme-stats) [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehkij&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
