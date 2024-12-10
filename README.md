@@ -14,7 +14,8 @@ Some tech I use, or have used previously:
   </a>
 </p>
 
-[![Mehki Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehkij&theme=dark&hide=stars)](https://github.com/anuraghazra/github-readme-stats) [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehkij&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Mehki Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehkij&theme=dark&hide=stars)](https://github.com/anuraghazra/github-readme-stats) 
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehkij&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
   <img src="https://github.com/mehkij/mehkij/blob/main/omg-meme-dancing-gif.gif" />
