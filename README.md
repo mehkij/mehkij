@@ -10,7 +10,7 @@ Some tech I use, or have used previously:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,python,bash,docker,git,github,md,mongodb,express,react,nodejs,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=go,python,bash,docker,git,github,md,mongodb,express,react,nodejs,html,css,tailwind,js,ts" />
   </a>
 </p>
 
